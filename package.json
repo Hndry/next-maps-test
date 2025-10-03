@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "@arcgis/core": "^4.33.14",
+    "maplibre-gl": "^5.8.0",
     "next": "15.5.4",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "shpjs": "^6.1.0"
+    "react-map-gl": "^8.0.4",
+    "shpjs": "^6.2.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
